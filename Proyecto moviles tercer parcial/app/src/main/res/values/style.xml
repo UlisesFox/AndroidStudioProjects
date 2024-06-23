@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+  <style name="MiEstiloDeBoton" parent="Widget.AppCompat.Button">
+    <item name="android:background">@drawable/background_button</item>
+    <item name="android:textColor">@color/white</item>
+    <!-- Agrega más atributos según tus necesidades -->
+  </style>
+
+  <style name="InputGrey" parent="Widget.AppCompat.EditText">
+    <item name="android:background">@drawable/input_grey</item>
+    <item name="android:textColor">@color/transparenGreyText</item>
+  </style>
+
+  <style name="test" parent="Widget.AppCompat.EditText">
+    <item name="colorPrimaryDark">@color/top_color</item>
+
+  </style>
+
+</resources>

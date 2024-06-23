@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/metros"
+        android:layout_width="333dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="45dp"
+        android:ems="10"
+        android:hint="@string/metros"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/mostrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="304dp"
+        android:layout_marginEnd="79dp"
+        android:onClick="mostrarResultado"
+        android:text="@string/mostrar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/resultado"
+        android:layout_width="332dp"
+        android:layout_height="243dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="376dp"
+        android:layout_marginEnd="46dp"
+        android:text="@string/resultado"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/convertir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="304dp"
+        android:layout_marginEnd="233dp"
+        android:onClick="convertirMetodos"
+        android:text="@string/convertir"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/trasformaciones"
+        android:layout_width="334dp"
+        android:layout_height="162dp"
+        android:layout_marginStart="38dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="39dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/pies"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pies" />
+
+        <RadioButton
+            android:id="@+id/pulgadas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pulgadas" />
+
+        <RadioButton
+            android:id="@+id/yardas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/yardas" />
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

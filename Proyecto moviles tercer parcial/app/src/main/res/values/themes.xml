@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Proyecto" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+          <item name="colorPrimary">@color/blueMain</item>
+        <item name="android:statusBarColor">@color/blueMain</item>
+    </style>
+
+
+    <style name="Theme.Proyecto" parent="Base.Theme.Proyecto" />
+
+    <style name="Theme.Proyecto.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Proyecto.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Proyecto.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/inicio_icon"
+            android:title="Inicio"/>
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/cuenta_icon"
+            android:title="Cuenta" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/platillo_icon"
+            android:title="Platillos" />
+
+        <item
+            android:id="@+id/historialFragment"
+            android:title="Historial"
+            android:icon="@drawable/historial_icon"/>
+
+        <item
+            android:id="@+id/envioFragment"
+            android:title="Envio"
+            android:icon="@drawable/envio_icon"/>
+    </group>
+</menu>

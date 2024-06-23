@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pestañas</string>
+    <string name="principal">Principal</string>
+    <string name="galeria">Galeria</string>
+    <string name="formulario">Contactanos</string>
+    <string name="correo">Correo electronico</string>
+    <string name="comentario">Comentarios</string>
+    <string name="telefono">Numero telefonico</string>
+    <string name="enviar">Enviar</string>
+    <string name="efecto">Reproducir efecto</string>
+    <string name="audio">Reproducir musica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

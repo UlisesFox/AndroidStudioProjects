@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">piagnost</string>
+    <string name="titulo">Armas y Armaduras el Zorro</string>
+    <string name="nombre">Ingrese nombre de Usuario</string>
+    <string name="contra">Ingrese Contraseña</string>
+    <string name="log">Iniciar Sesion</string>
+    <string name="save">Recuerdame</string>
+    <string name="exit">Salir</string>
+    <string name="formulario">Tienda</string>
+    <string name="consulta">Consultar</string>
+    <string name="cerrar">Cerrar Sesion</string>
+    <string name="title_activity_menulateral">Armas y Armaduras el Zorro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

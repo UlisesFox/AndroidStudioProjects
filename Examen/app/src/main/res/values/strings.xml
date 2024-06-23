@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="registrar">Registrar</string>
+    <string name="consultar">Consultar</string>
+    <string name="salir">Salir</string>
+    <string name="buscar">Buscar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="titulo">Foxs Den login</string>
+    <string name="titulo2">Foxs Den registro</string>
+    <string name="contrasena">Ingrese contraseña</string>
+    <string name="ingre">Ingresar</string>
+    <string name="codigo">Ingrese codigo</string>
+    <string name="nombre">Ingrese nombre</string>
+    <string name="marca">Ingrese marca</string>
+    <string name="precio">Ingrese precio</string>
+    <string name="clasificacion">Ingrese clasificacion</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blueMain">#01011F</color>
+    <color name="orangeMain">#EC4815</color>
+    <color name="blue">#04B0D6</color>
+    <color name="transparenGrey">#7A90A4C7</color>
+    <color name="transparenGreyText">#4D6D8B</color>
+    <color name="top_color">#ff0000</color>
+
+    <color name="selectedSidebarTextColor">#01011F</color>
+
+
+
+</resources>

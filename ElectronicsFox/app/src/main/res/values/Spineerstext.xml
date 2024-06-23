@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categoria">
+        <item>Laptops</item>
+        <item>Componentes</item>
+        <item>Torres</item>
+        <item>Monitores</item>
+        <item>Softwares</item>
+        <item>Hardwares</item>
+        <item>Telefonos</item>
+    </string-array>
+
+    <string-array name="proveedor">
+        <item>Softwares</item>
+        <item>Hardwares</item>
+        <item>Dispositivos</item>
+        <item>Componentes</item>
+    </string-array>
+    
+    <string-array name="entidadbancaria">
+        <item>Mastercard</item>
+        <item>Visa</item>
+        <item>American Express</item>
+    </string-array>
+
+    <string-array name="DoC">
+        <item>Credito</item>
+        <item>Debito</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppEpidemia</string>
+    <string name="Codigo">Ingresa codigo</string>
+    <string name="Nombre">Turno del afectado</string>
+    <string name="Caso">Tipo de dolor</string>
+    <string name="Nul">Ninguno</string>
+    <string name="Baj">Bajo</string>
+    <string name="Med">Medio</string>
+    <string name="Alt">Alto</string>
+    <string name="Vaccuna">Vacunnas apicadas</string>
+    <string name="Pri">Primera dosis</string>
+    <string name="Seg">Segunda dosis</string>
+    <string name="Ter">Tercera dosis</string>
+    <string name="Cua">Cuarta dosis</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Regresar">Regresar</string>
+</resources>

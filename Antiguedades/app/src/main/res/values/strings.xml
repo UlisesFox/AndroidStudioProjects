@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Antiguedades</string>
+    <string name="titulo">Tienda de antigüedades KIUBO</string>
+    <string name="nombre">Ingresa Nombre</string>
+    <string name="telefono">Ingresa Teléfono</string>
+    <string name="correo">Ingresa correo electrónico</string>
+    <string name="contrasena">Ingresa contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nosotros">En esta tienda de antigüedades tenemos múltiples artículos de antiguas épocas, estados y formas, deléitese ante nuestro catalogo y ordene alguno de interés para su inspección y muy posiblemente la adquisición de uno de estos productos.
+    \nEn nuestras tiendas físicas puede encontrar más artículos de los que se presenta en esta página, no dude en darse una vuelta y consultar por alguno de nuestros impresionantes artículos de cada sección.
+    \nAdvertencia la agencia KIUBO no se hace responsable de posibles maldiciones, muertes inesperadas, atracción de espíritus o demonios, perdida de alma, desaparición de extremidades, o algún tipo de daño relacionado con la muerte, perdida de humanidad o locura, además de pagar el daño en precio total de los artículos que sean rompidos o usados de manea no debida, además de que todo aquel que se quede dentro después de las 12 será con considerado perdid he irremediablemente se le dará por muerto, gracias por su comprensión</string>
+    <string name="Menuprincipal.">Menú principal</string>
+    <string name="informacion">Información</string>
+    <string name="antiguedades">Antigüedades</string>
+    <string name="contacto">Contacto</string>
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tienda de antigüedades KIUBO</string>
+    <string name="nav_header_subtitle">Decoraciones de muerte</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Información</string>
+    <string name="menu_gallery">Antigüedades</string>
+    <string name="menu_slideshow">Contacto</string>
+</resources>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="Sing_in">Sign In</string>
+    <string name="Hell">¡HELL</string>
+    <string name="o">O</string>
+    <string name="oo">¡</string>
+    <string name="PleaseSignIn">Please, sign in to continue</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="InfoLogIn">Don’t have an account?</string>
+    <string name="SingUp">Sing Up</string>
+
+    <string name="SingUp1">Sing </string>
+    <string name="SingUp1.1">U</string>
+    <string name="SingUp1.2">p</string>
+    <string name="SingUpInfo">Create an account, so you can order you favorite food even faster</string>
+
+    <string name="SingUpName">Name</string>
+    <string name="SingUpLastName">Last Name</string>
+    <string name="SingUpEmail">Email</string>
+    <string name="SingUpPassword">Password</string>
+    <string name="SingUpConfirmPassword">Confirm password</string>
+
+
+
+
+
+    <string name="textHomeNameO">O</string>
+    <string name="textHomeName">rder</string>
+    <string name="textHome1"> your food in a </string>
+    <string name="textHome1.2">simple tap!</string>
+    <string name="textHome2">Our mission is make simple, fastest and create a better experience with your customers </string>
+    <string name="OrderNow">¡Order now!</string>
+    <string name="textHome3">it gona be avialble </string>
+    <string name="textHome3.1">around the world, and now you’re maken a change</string>
+
+
+
+
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

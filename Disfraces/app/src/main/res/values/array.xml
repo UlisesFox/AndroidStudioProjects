@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Arrayinfo">
+        <item>Traje Zombie</item>
+        <item>Traje Vampiro</item>
+        <item>Traje Ori</item>
+        <item>Traje Esqueleto</item>
+        <item>Traje Pirata</item>
+    </string-array>
+</resources>

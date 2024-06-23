@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="metros">Ingresa cantidad de metros</string>
+    <string name="pies">Pies</string>
+    <string name="pulgadas">Pulgadas</string>
+    <string name="yardas">Yardas</string>
+    <string name="convertir">Convertir</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="resultado">Cantidad convertida</string>
+</resources>

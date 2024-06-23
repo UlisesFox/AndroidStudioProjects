@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Disfraces</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="regresar">Regresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="datos">Información registrada:</string>
+    <string name="titulo">Tienda de disfraces el Zorro</string>
+    <string name="correo">Ingrese correo electrónico</string>
+    <string name="contra">Ingrese contraseña</string>
+    <string name="Datos">Guardar datos</string>
+    <string name="nombre">Ingrese nombre</string>
+    <string name="domicilio">Ingrese domicilio</string>
+    <string name="telefono">Ingresa telefono de contacto</string>
+</resources>

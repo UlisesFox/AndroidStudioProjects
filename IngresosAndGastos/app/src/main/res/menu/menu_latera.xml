@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ingre"
+        android:title="@string/ingresos" />
+    <item
+        android:id="@+id/veringre"
+        android:title="@string/veringre" />
+    <item
+        android:id="@+id/gasto"
+        android:title="@string/gastos" />
+    <item
+        android:id="@+id/vertos"
+        android:title="@string/vertos" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/salir" />
+</menu>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IngresosAndGastos</string>
+    <string name="titulo">El Zorro contador</string>
+    <string name="nombre">Ingrese nombre de Usuario</string>
+    <string name="contra">Ingrese Contraseña</string>
+    <string name="log">Iniciar Sesion</string>
+    <string name="save">Recuerdame</string>
+    <string name="exit">Salir</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="veringre">Relación de ingresos</string>
+    <string name="gastos">Gastos</string>
+    <string name="vertos">Listado de Gastos</string>
+    <string name="salir">Cerrar Sesion</string>
+    <string name="ingreso">Inserte numero de ingreso</string>
+    <string name="fecha">Fecha de ingreso</string>
+    <string name="monto">Ingrese monto</string>
+    <string name="descripccion">Ingrese descripccion</string>
+    <string name="Gasto">Inserte numero de gasto</string>
+    <string name="lugar">Ingrese lugar de gasto</string>
+    <string name="registrar">Registrar</string>
+    <string name="regresar">Regresar</string>
+    <string name="title_activity_menu_latera">El Zorro contador</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Electronics Fox</string>
+
+    <string name="nombre">Ingrese nombre de usuario</string>
+    <string name="contra">Ingrese contraseña</string>
+    <string name="log">Iniciar Sesion</string>
+    <string name="save">Recuerdame</string>
+    <string name="exit">Salir</string>
+
+    <string name="Ingresar1">Ingresar producto</string>
+    <string name="Ingresar2">Ingresar proveedor</string>
+    <string name="Ingresar3">Ingresar tarjetas</string>
+    <string name="Mostrar">Ver productos</string>
+    <string name="Mostrar2">Ver proveedores</string>
+    <string name="Mostrar3">Ver tarjetas</string>
+    <string name="Map">¿Como llegar?</string>
+    <string name="sensor">Utilidades</string>
+    <string name="Cerrar">Cerrar Sesion</string>
+
+    <string name="codigoP">Ingrese codigo de producto</string>
+    <string name="producN">Ingrese nombre de producto</string>
+    <string name="precioP">Ingrese precio de producto</string>
+    <string name="descuento">Descuento</string>
+
+    <string name="codePro">Ingrese codigo de proveedor</string>
+    <string name="nombrePro">Ingrese nombre de proveedor</string>
+    <string name="costoPro">Ingrese costo de reabastecimiento</string>
+    <string name="correoPro">Ingrese correo de proveedor</string>
+    <string name="Entrega">Entrega</string>
+
+    <string name="propietario">Nombre del propietario de la tarjeta</string>
+    <string name="contrasena">Contraseña de registro</string>
+    <string name="BIN">Ingrese el BIN de la trajeta</string>
+    <string name="CVV">CVV</string>
+    <string name="caducidad">Caducidad</string>
+
+    <string name="Agregar">Agregar</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Actualizar">Actualizar</string>
+    <string name="Borrar">Borrar</string>
+    <string name="Regresar">Regresar</string>
+    <string name="Limpiar">Limpiar</string>
+
+    <string name="title_activity_menu_lateral">Electronics Fox</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>

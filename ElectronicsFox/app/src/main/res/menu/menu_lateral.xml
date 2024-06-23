@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/IngreProduc"
+        android:title="@string/Ingresar1" />
+    <item
+        android:id="@+id/IngreProvee"
+        android:title="@string/Ingresar2" />
+    <item
+        android:id="@+id/IngreTarje"
+        android:title="@string/Ingresar3" />
+    <item
+        android:id="@+id/ConsulProduc"
+        android:title="@string/Mostrar" />
+    <item
+        android:id="@+id/ConsulProvee"
+        android:title="@string/Mostrar2" />
+    <item
+        android:id="@+id/ConsulTarje"
+        android:title="@string/Mostrar3" />
+    <item
+        android:id="@+id/APIMAps"
+        android:title="@string/Map" />
+    <item
+        android:id="@+id/sensor"
+        android:title="@string/sensor" />
+    <item
+        android:id="@+id/close"
+        android:title="@string/Cerrar" />
+</menu>
